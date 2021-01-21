@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://calendly-production.s3.amazonaws.com/sitemaps/sitemap.xml.gz
+Sitemap: https://calendly.com/blog/sitemap.xml
